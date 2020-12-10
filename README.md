@@ -10,6 +10,6 @@
 3. KONFIGURASI base_url(), BUKA FILE config.php DI DALAM FOLDER application/config
    CARI BARIS KE 26 GANTI SETELAH LOCALHOST/ JADI NAMA FOLDER YANG DI KASI DI HTDOCS http://localhost/toko/ jadi http://localhost/'NAMA FOLDER'/
 
-4. IMPORT beol.sql KE DALAM DATABASE YANG UDAH DI BUAT
+4. IMPORT basdat update.sql KE DALAM DATABASE YANG UDAH DI BUAT
 
 5. JALANKAN WEBNYA BUKA BROWSER KETIK localhost/toko ATAU nama folder yg dikasi di htdocs
